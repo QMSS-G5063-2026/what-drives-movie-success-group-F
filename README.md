@@ -1,2 +1,2 @@
-# what-drives-movie-success-group-I
+# what-drives-movie-success-group-F
 QMSS-G5063 Data Visualization project exploring what drives movie success using content features, audience sentiment, and collaboration networks.
