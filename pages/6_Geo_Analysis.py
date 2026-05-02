@@ -213,7 +213,7 @@ st.caption(
     "a small number of large international productions (including the Lord of the Rings trilogy) "
     "push its average far above the US. "
     "Switch to **Average Rating** to see a reversal: high-production countries like the US, "
-    "Canada, and Australia rate lower than smaller markets such as Argentina and Sweden."
+    "Canada, and Australia rate lower than smaller markets such as and Sweden."
 )
 
 # ---------- Country rankings ----------
